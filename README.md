@@ -1,4 +1,4 @@
-# Practical
+# Semester Practical Output
 
 # Hospital Management Web Application
 
